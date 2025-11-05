@@ -66,7 +66,6 @@ Analyzed student performance data to identify key factors influencing academic s
 🔍 Conducted EDA, feature selection, and visualized insights for education improvement.  
 **Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib
 
-
 ---
 
 ## 📈 GitHub Stats
